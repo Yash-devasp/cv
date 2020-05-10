@@ -1,2 +1,2 @@
 # cv
-This is a basic cv site
+This is a basic cv created just by html and css.
